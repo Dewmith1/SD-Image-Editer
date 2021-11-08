@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates Channel", url="https://t.me/SDBOTs_inifinity"
+                        "Updates Channel", url="https://t.me/CGSupdate"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates Channel", url="https://t.me/SDBOTs_inifinity"
+                        "Updates Group", url="https://t.me/CGSsupport"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates Channel", url="https://t.me/SDBOTs_inifinity"
+                        "Updates Channel", url="https://t.me/CGSupdates"
                     )
                 ],
             ]
