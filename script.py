@@ -14,11 +14,11 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-© @SDBOTs_inifinity"""
+© @CGSupdate"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Group :</b> 👉 <a href='https://t.me/SDBOTs_inifinity'>Click Here</a>"""
+⭕️<b>Group :</b> 👉 <a href='https://t.me/CGSsupport'>Click Here</a>"""
